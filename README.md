@@ -204,9 +204,10 @@ OFI LogiX AI - Transforming Logistics through Artificial Intelligence
 
   
    
-   ## Demo :- https://drive.google.com/file/d/1_PC1MrkvfULuQ_SHnnRHE7dnxzkwbx8l/view?usp=sharing
+   ## Demo :- https://drive.google.com/file/d/1Ra7JGqkZ_mIQ2HBIAddyn6lQfIBVYsoH/view?usp=sharing
  
 
 
 </div>
+
 
